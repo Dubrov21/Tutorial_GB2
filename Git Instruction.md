@@ -1,6 +1,9 @@
-Control version learning start
+Для превращения строки в заголовок поставьте в начале знак #:
+# Control version learning start
 
-Reduced insruction for Git
+Для превращения строки в заголовок более низкого уровня поставьте в начале знак #:
+
+## Reduced insruction for Git
 
 Для просмотра истории изменений: команда git log
 
