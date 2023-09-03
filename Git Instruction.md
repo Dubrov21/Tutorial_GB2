@@ -25,3 +25,6 @@ Reduced insruction for Git
 * Element 2
 * Element 3
 
+Для добавления нумерованного списка вначале строки поставьте номер с точкой и пробел:
+1. First element of numered list
+
