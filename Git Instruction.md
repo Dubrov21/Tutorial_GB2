@@ -89,3 +89,7 @@
         1. Подпункт
 
 >>>>>>> nested
+
+## Команды GIT
+
+* Переход на другую ветку: git checkout (branch name)
